@@ -7,3 +7,7 @@
 
 
 I added a bunch of headers to try them out.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+I added an image.
